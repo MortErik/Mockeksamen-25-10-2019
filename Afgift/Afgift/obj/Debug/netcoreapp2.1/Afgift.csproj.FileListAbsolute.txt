@@ -1,0 +1,9 @@
+C:\Users\Morte\source\repos\Afgift\Afgift\bin\Debug\netcoreapp2.1\Afgift.deps.json
+C:\Users\Morte\source\repos\Afgift\Afgift\bin\Debug\netcoreapp2.1\Afgift.dll
+C:\Users\Morte\source\repos\Afgift\Afgift\bin\Debug\netcoreapp2.1\Afgift.pdb
+C:\Users\Morte\source\repos\Afgift\Afgift\obj\Debug\netcoreapp2.1\Afgift.csprojAssemblyReference.cache
+C:\Users\Morte\source\repos\Afgift\Afgift\obj\Debug\netcoreapp2.1\Afgift.csproj.CoreCompileInputs.cache
+C:\Users\Morte\source\repos\Afgift\Afgift\obj\Debug\netcoreapp2.1\Afgift.AssemblyInfoInputs.cache
+C:\Users\Morte\source\repos\Afgift\Afgift\obj\Debug\netcoreapp2.1\Afgift.AssemblyInfo.cs
+C:\Users\Morte\source\repos\Afgift\Afgift\obj\Debug\netcoreapp2.1\Afgift.dll
+C:\Users\Morte\source\repos\Afgift\Afgift\obj\Debug\netcoreapp2.1\Afgift.pdb

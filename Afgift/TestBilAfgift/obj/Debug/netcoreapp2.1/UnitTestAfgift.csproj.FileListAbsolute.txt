@@ -1,0 +1,17 @@
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\bin\Debug\netcoreapp2.1\UnitTestAfgift.deps.json
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\bin\Debug\netcoreapp2.1\UnitTestAfgift.runtimeconfig.json
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\bin\Debug\netcoreapp2.1\UnitTestAfgift.runtimeconfig.dev.json
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\bin\Debug\netcoreapp2.1\UnitTestAfgift.dll
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\bin\Debug\netcoreapp2.1\UnitTestAfgift.pdb
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\bin\Debug\netcoreapp2.1\Afgift.dll
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\bin\Debug\netcoreapp2.1\Afgift.pdb
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\obj\Debug\netcoreapp2.1\UnitTestAfgift.csprojAssemblyReference.cache
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\obj\Debug\netcoreapp2.1\UnitTestAfgift.csproj.CoreCompileInputs.cache
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\obj\Debug\netcoreapp2.1\UnitTestAfgift.AssemblyInfoInputs.cache
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\obj\Debug\netcoreapp2.1\UnitTestAfgift.AssemblyInfo.cs
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\obj\Debug\netcoreapp2.1\UnitTestAfgift.csproj.CopyComplete
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\obj\Debug\netcoreapp2.1\UnitTestAfgift.dll
+C:\Users\Morte\source\repos\Afgift\TestBilAfgift\obj\Debug\netcoreapp2.1\UnitTestAfgift.pdb
